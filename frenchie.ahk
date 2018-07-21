@@ -10,7 +10,7 @@ gosub DisplayHelp
 return
 
 DisplayHelp:
-MsgBox,64,waddup kat <3, ç -> 	Alt + c`nÇ -> 	Shift + Alt + c`nï -> 	Alt + i`nÏ -> 	Shift + Alt + i`nœ -> 	Alt + ö`nŒ -> 	Shift + Alt + ö`n« -> 	Alt + q`n» -> 	Shift + Alt + q`n… -> 	Alt + .`n– -> 	Alt + -`nDiese Hilfe erneut anzeigen	Strg + Alt + h
+MsgBox,64,waddup kat <3, ç -> 	Alt + c`nÇ -> 	Shift + Alt + c`nï -> 	Alt + i`nÏ -> 	Shift + Alt + i`nœ -> 	Alt + ö`nŒ -> 	Shift + Alt + ö`n« -> 	Alt + q`n» -> 	Shift + Alt + q`n… -> 	Alt + .`n– -> 	Alt + -`nDiese Hilfe erneut anzeigen	Strg + Alt + h`n`nWichtig: die Tastenkombination für das Ändern der Eingabesprache muss ausgeschaltet sein. Siehe https://superuser.com/questions/698037/can-i-disable-the-altshift-shortcut-to-change-language-in-windows-8-1-or-win#698595
 return
 
 ; lowercase cedille
