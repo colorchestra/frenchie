@@ -1,1 +1,3 @@
-facilitates typing french special characters on german keyboards. Compatible with windows only.
+Facilitates typing french special characters on german keyboards in Windows following the corresponding shortcuts from macOS. Tested only on Windows 10.
+
+Make sure Windows' default shortcut Alt+Shift (change Keyboard layout) is deactivated by doing this: https://superuser.com/questions/698037/can-i-disable-the-altshift-shortcut-to-change-language-in-windows-8-1-or-win#698595
