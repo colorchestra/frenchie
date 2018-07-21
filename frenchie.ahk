@@ -3,8 +3,14 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-^!::
-Send "Kackwurst"
+gosub DisplayHelp
+
+^!h::
+gosub DisplayHelp
+return
+
+DisplayHelp:
+MsgBox,64,waddup kat <3, ç -> 	Alt + c`nÇ -> 	Shift + Alt + c`nï -> 	Alt + i`nÏ -> 	Shift + Alt + i`nœ -> 	Alt + ö`nŒ -> 	Shift + Alt + ö`n« -> 	Alt + q`n» -> 	Shift + Alt + q`n… -> 	Alt + .`n– -> 	Alt + -`nDiese Hilfe erneut anzeigen	Strg + Alt + h
 return
 
 ; lowercase cedille
